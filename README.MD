@@ -18,6 +18,8 @@ Ele salva as suas mudanças como "commits", você pode enviar seu projeto Git no
 
 #### Windows
 
+![](img/git-scm.png)
+
 1. Acesse o site oficial do Git em [git-scm.com](https://git-scm.com/download/win).
 2. Baixe o instalador apropriado para a sua arquitetura (32-bit ou 64-bit).
 3. Execute o instalador (`.exe`) baixado e avance pelas etapas do assistente (as opções padrão funcionam bem para a maioria dos usuários).
@@ -25,8 +27,6 @@ Ele salva as suas mudanças como "commits", você pode enviar seu projeto Git no
    ```cmd
    git --version
    ```
-
-![](img/git-scm.png)
 
 #### Linux
 
@@ -90,6 +90,8 @@ git --version
 ## GitHub
 
 ### O que é o GitHub?
+
+![](img/github.png)
 
 GitHub é uma plataforma feita pra você hospedar seus projetos feitos com Git, tipo como o YouTube te deixa enviar videos, você pode enviar repositórios Git pro GitHub.
 
