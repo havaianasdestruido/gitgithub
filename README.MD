@@ -26,6 +26,8 @@ Ele salva as suas mudanças como "commits", você pode enviar seu projeto Git no
    git --version
    ```
 
+![](img/git-scm.png)
+
 #### Linux
 
 No Linux, você pode instalar o Git usando o gerenciador de pacotes da sua distribuição:
