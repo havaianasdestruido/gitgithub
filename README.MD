@@ -103,10 +103,68 @@ Pra usar o GitHub basta você acessar o site e criar uma conta.
 
 ### Como enviar um repositório git do meu computador para o GitHub?
 
-#### Caso você não tenha ainda inicializado / instalado o git no seu projeto
+#### Caso você não tenha ainda inicializado o git no seu projeto
 
-TBA.
+1. Navegue até a pasta do seu projeto no terminal/prompt de comando:
+   ```bash
+   cd /caminho/para/o/seu/projeto
+   ```
 
-#### Caso você já tenha ainda inicializado / instalado o git no seu projeto
+2. Inicialize o repositório Git local:
+   ```bash
+   git init
+   ```
 
-TBA.
+3. Adicione todos os arquivos do seu projeto à área de preparação (*staging*):
+   ```bash
+   git add .
+   ```
+
+4. Crie o seu primeiro *commit* com uma mensagem descritiva:
+   ```bash
+   git commit -m "Primeiro commit"
+   ```
+
+5. Renomeie a branch principal para `main` (nome padrão utilizado pelo GitHub):
+   ```bash
+   git branch -M main
+   ```
+
+6. Adicione o endereço do repositório remoto criado no GitHub como `origin` (substitua a URL pela URL do seu repositório):
+   ```bash
+   git remote add origin https://github.com/seu-usuario/seu-repositorio.git
+   ```
+
+7. Envie os seus arquivos para o GitHub:
+   ```bash
+   git push -u origin main
+   ```
+
+#### Caso você já tenha inicializado o git no seu projeto
+
+1. Navegue até a pasta do seu projeto no terminal/prompt de comando:
+   ```bash
+   cd /caminho/para/o/seu/projeto
+   ```
+
+2. (Opcional) Verifique o status dos arquivos e certifique-se de salvar suas alterações em um *commit*:
+   ```bash
+   git status
+   git add .
+   git commit -m "Atualizando o projeto"
+   ```
+
+3. Adicione o endereço do repositório remoto do GitHub (substitua a URL pela URL do seu repositório):
+   ```bash
+   git remote add origin https://github.com/seu-usuario/seu-repositorio.git
+   ```
+
+4. Renomeie a branch principal para `main`, caso ainda não seja:
+   ```bash
+   git branch -M main
+   ```
+
+5. Envie suas alterações para o GitHub:
+   ```bash
+   git push -u origin main
+   ```
