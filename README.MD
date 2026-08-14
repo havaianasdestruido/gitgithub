@@ -10,6 +10,10 @@ Git é uma ferramenta de versionamento, ou seja, ela ajuda a visualizar modifica
 
 Desse jeito, fica bem mais organizado do que ficar trocando arquivos ou copiando e colando de alguem.
 
+Ele salva as suas mudanças como "commits", você pode enviar seu projeto Git no GitHub caso queira.
+
+![](img/commits.png)
+
 ### Como instalar?
 
 #### Windows
