@@ -10,9 +10,15 @@ Git é uma ferramenta de controle de versão, ou seja, ela ajuda a visualizar mo
 
 Dessa forma, o código fica muito mais organizado do que trocando arquivos ou copiando e colando trechos de alguém.
 
+Ele salva as suas mudanças como "commits", você pode enviar seu projeto Git no GitHub caso queira.
+
+![](img/commits.png)
+
 ### Como instalar?
 
 #### Windows
+
+![](img/git-scm.png)
 
 1. Acesse o site oficial do Git em [git-scm.com](https://git-scm.com/download/win).
 2. Baixe o instalador apropriado para a sua arquitetura (32-bit ou 64-bit).
@@ -85,8 +91,22 @@ git --version
 
 ### O que é o GitHub?
 
-O GitHub é uma plataforma feita para você hospedar seus projetos desenvolvidos com o Git. Assim como o YouTube permite enviar vídeos, você pode enviar repositórios Git para o GitHub.
+![](img/github.png)
+
+GitHub é uma plataforma feita pra você hospedar seus projetos feitos com Git, tipo como o YouTube te deixa enviar videos, você pode enviar repositórios Git pro GitHub.
+
+![](img/github2.png)
 
 ### Como usar?
 
-Para usar o GitHub, basta acessar o site e criar uma conta.
+Pra usar o GitHub basta você acessar o site e criar uma conta.
+
+### Como enviar um repositório git do meu computador para o GitHub?
+
+#### Caso você não tenha ainda inicializado / instalado o git no seu projeto
+
+TBA.
+
+#### Caso você já tenha ainda inicializado / instalado o git no seu projeto
+
+TBA.
