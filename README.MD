@@ -95,6 +95,18 @@ git --version
 
 GitHub é uma plataforma feita pra você hospedar seus projetos feitos com Git, tipo como o YouTube te deixa enviar videos, você pode enviar repositórios Git pro GitHub.
 
+![](img/github2.png)
+
 ### Como usar?
 
 Pra usar o GitHub basta você acessar o site e criar uma conta.
+
+### Como enviar um repositório git do meu computador para o GitHub?
+
+#### Caso você não tenha ainda inicializado / instalado o git no seu projeto
+
+TBA.
+
+#### Caso você já tenha ainda inicializado / instalado o git no seu projeto
+
+TBA.
