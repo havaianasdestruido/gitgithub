@@ -26,12 +26,6 @@ OPENBSD: TBA
 
 GitHub é uma plataforma feita pra você hospedar seus projetos feitos com Git, tipo como o YouTube te deixa enviar videos, você pode enviar repositórios Git pro GitHub.
 
-### Como instalar?
+### Como usar?
 
-WINDOWS: TBA
-
-LINUX: TBA
-
-MACOS: TBA
-
-OPENBSD: TBA
+Pra usar o GitHub basta você acessar o site e criar uma conta.
