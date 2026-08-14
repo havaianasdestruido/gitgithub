@@ -1,14 +1,14 @@
 # Git e GitHub
 
-Git e GitHub são duas ferramentas de programação, a diferença e que elas funcionam de jeitos diferentes, mas ainda sim de uma forma interligada.
+Git e GitHub são duas ferramentas de programação; a diferença é que elas funcionam de formas diferentes, mas ainda assim de maneira interligada.
 
 ## Git
 
 ### O que é o Git?
 
-Git é uma ferramenta de versionamento, ou seja, ela ajuda a visualizar modificações no código de forma que você pode "ver" só as modificações individuais.
+Git é uma ferramenta de controle de versão, ou seja, ela ajuda a visualizar modificações no código de forma que você possa ver apenas as alterações individuais.
 
-Desse jeito, fica bem mais organizado do que ficar trocando arquivos ou copiando e colando de alguem.
+Dessa forma, o código fica muito mais organizado do que trocando arquivos ou copiando e colando trechos de alguém.
 
 Ele salva as suas mudanças como "commits", você pode enviar seu projeto Git no GitHub caso queira.
 
